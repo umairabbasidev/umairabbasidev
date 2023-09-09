@@ -1,4 +1,4 @@
-[![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)]
+
 <h1 align="center">Hi 👋, I'm Umair Abbasi</h1>
 <h3 align="center">I'm a React-Js frontend developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
