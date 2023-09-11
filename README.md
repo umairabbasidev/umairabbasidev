@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*Hkc_4gPGQJQ3gajc0Kw9nQ.gif)]
+[MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*Hkc_4gPGQJQ3gajc0Kw9nQ.gif)
 <h1 align="center">Hi 👋, I'm Umair Abbasi</h1>
 <h3 align="center">I'm a React-Js frontend developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
